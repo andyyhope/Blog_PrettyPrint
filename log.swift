@@ -1,4 +1,13 @@
-import UIKit
+//
+//  Log.swift
+//  
+//
+//  Created by Andyy Hope on 14/04/2016.
+//  http://www.andyyhope.com
+//  @andyyhope
+
+
+import Foundation
 
 enum log {
     case ln(_: String)
@@ -38,48 +47,3 @@ postfix func / (target: log?) {
         log("🕒", date)
     }
 }
-
-let string = "Hello, world!"
-let url = "http://www.andyyhope.com"
-let date = NSDate()
-let any = ["Key": 2]
-
-log.ln("Pretty")/
-log.url(url)/
-log.any(date)/
-
-log.any(UIColor.redColor())/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
