@@ -1,7 +1,7 @@
 ![Alt text](https://cdn-images-1.medium.com/max/1600/1*_ugFObrNNQh1Zj5m-tihZg.png)
 
-# Swift: Prettify your print statements 
-## Pretty in print()
+# Swift: Pretty in print()
+## Logs are fashion, and you're the designer
 
 ### Part 1
 [Swift: Pretty in print() Pt. 1](https://medium.com/p/64832bb7fafa/)
